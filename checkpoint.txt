@@ -1,0 +1,2 @@
+2026-10-01 19:52:53,050 WARN org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Checkpoint done. New Image Size: 399
+2026-10-01 20:01:35,832 WARN org.apache.hadoop.hdfs.server.namenode.SecondaryNameNode: Checkpoint done. New Image Size: 690

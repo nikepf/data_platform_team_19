@@ -1,0 +1,45 @@
+FSCK started by team (auth:SIMPLE) from /10.19.0.10 for path /user/team/hw1 at Thu Oct 01 20:01:17 UTC 2026
+
+/user/team/hw1 <dir>
+/user/team/hw1/test.txt 13 bytes, replicated: replication=3, 1 block(s):  OK
+0. BP-1221691620-127.0.1.1-1790883512711:blk_1073741825_1001 len=13 Live_repl=3  [DatanodeInfoWithStorage[10.19.0.12:9866,DS-c9480dc1-9aa2-44f8-94ba-e4368a24ccfe,DISK], DatanodeInfoWithStorage[10.19.0.13:9866,DS-2d25b3ac-f0b8-467b-a736-b05b6b5f715a,DISK], DatanodeInfoWithStorage[10.19.0.10:9866,DS-a5706ec8-b6c5-4bff-8e70-e65e3efeefdd,DISK]]
+
+
+Status: HEALTHY
+ Number of data-nodes:	3
+ Number of racks:		1
+ Total dirs:			1
+ Total symlinks:		0
+
+Replicated Blocks:
+ Total size:	13 B
+ Total files:	1
+ Total blocks (validated):	1 (avg. block size 13 B)
+ Minimally replicated blocks:	1 (100.0 %)
+ Over-replicated blocks:	0 (0.0 %)
+ Under-replicated blocks:	0 (0.0 %)
+ Mis-replicated blocks:		0 (0.0 %)
+ Default replication factor:	3
+ Average block replication:	3.0
+ Missing blocks:		0
+ Corrupt blocks:		0
+ Missing replicas:		0 (0.0 %)
+ Blocks queued for replication:	0
+
+Erasure Coded Block Groups:
+ Total size:	0 B
+ Total files:	0
+ Total block groups (validated):	0
+ Minimally erasure-coded block groups:	0
+ Over-erasure-coded block groups:	0
+ Under-erasure-coded block groups:	0
+ Unsatisfactory placement block groups:	0
+ Average block group size:	0.0
+ Missing block groups:		0
+ Corrupt block groups:		0
+ Missing internal blocks:	0
+ Blocks queued for replication:	0
+FSCK ended at Thu Oct 01 20:01:17 UTC 2026 in 10 milliseconds
+
+
+The filesystem under path '/user/team/hw1' is HEALTHY
