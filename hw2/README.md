@@ -160,6 +160,7 @@ ssh -N -o ExitOnForwardFailure=yes \
 | `results/wordcount.txt` | Подсчёт слов |
 
 ![ResourceManager1](images/resource-manager1.png)
+
 ![ResourceManager2](images/resource-manager2.png)
 
 ![JobHistoryServer](images/job-history.png)
