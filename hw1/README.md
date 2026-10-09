@@ -25,7 +25,7 @@
 ## Структура проекта
 
 ```text
-data_platform_team_19/
+hw1/
 ├── install.sh
 ├── deploy.sh
 ├── README.md
@@ -74,7 +74,7 @@ ssh team@178.236.27.75
 
 ```bash
 git clone https://github.com/nikepf/data_platform_team_19.git ~/hw1-hdfs
-cd ~/hw1-hdfs
+cd ~/hw1-hdfs/hw1
 ```
 
 ### 3. Проверка скриптов
