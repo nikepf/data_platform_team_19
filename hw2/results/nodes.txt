@@ -1,0 +1,6 @@
+2026-10-09 18:27:17,288 INFO client.DefaultNoHARMFailoverProxyProvider: Connecting to ResourceManager at team-19-nn/10.19.0.11:8032
+Total Nodes:3
+         Node-Id	     Node-State	Node-Http-Address	Number-of-Running-Containers
+ team-19-00:8041	        RUNNING	  team-19-00:8042	                           0
+ team-19-en:8041	        RUNNING	  team-19-en:8042	                           0
+ team-19-01:8041	        RUNNING	  team-19-01:8042	                           0

@@ -1,0 +1,5 @@
+nodemanager is running as process 268960.
+resourcemanager is running as process 76766.
+historyserver is running as process 76816.
+nodemanager is running as process 81263.
+nodemanager is running as process 81609.

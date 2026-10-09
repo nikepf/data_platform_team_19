@@ -1,0 +1,17 @@
+<configuration>
+  <property><name>mapreduce.framework.name</name><value>yarn</value></property>
+  <property><name>mapreduce.application.classpath</name><value>/home/team/hadoop-hw1/share/hadoop/mapreduce/*:/home/team/hadoop-hw1/share/hadoop/mapreduce/lib/*</value></property>
+
+  <property><name>mapreduce.jobhistory.address</name><value>team-19-nn:10020</value></property>
+  <property><name>mapreduce.jobhistory.webapp.address</name><value>team-19-nn:19888</value></property>
+  <property><name>mapreduce.jobhistory.bind-host</name><value>0.0.0.0</value></property>
+  <property><name>mapreduce.jobhistory.intermediate-done-dir</name><value>/user/team/hw2/history/tmp</value></property>
+  <property><name>mapreduce.jobhistory.done-dir</name><value>/user/team/hw2/history/done</value></property>
+
+  <property><name>yarn.app.mapreduce.am.resource.mb</name><value>512</value></property>
+  <property><name>yarn.app.mapreduce.am.command-opts</name><value>-Xmx384m</value></property>
+  <property><name>mapreduce.map.memory.mb</name><value>512</value></property>
+  <property><name>mapreduce.reduce.memory.mb</name><value>512</value></property>
+  <property><name>mapreduce.map.java.opts</name><value>-Xmx384m</value></property>
+  <property><name>mapreduce.reduce.java.opts</name><value>-Xmx384m</value></property>
+</configuration>
