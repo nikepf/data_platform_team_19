@@ -1,0 +1,4 @@
+drwxr-xr-x   - team supergroup          0 2026-10-22 19:02 /user/team/hw3/sales/dt=2026-10-21
+-rw-r--r--   3 team supergroup         26 2026-10-22 19:02 /user/team/hw3/sales/dt=2026-10-21/data.csv
+drwxr-xr-x   - team supergroup          0 2026-10-22 19:03 /user/team/hw3/sales/dt=2026-10-22
+-rw-r--r--   3 team supergroup         29 2026-10-22 19:02 /user/team/hw3/sales/dt=2026-10-22/data.csv

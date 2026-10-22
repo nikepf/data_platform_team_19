@@ -1,0 +1,9 @@
+Total number of applications (application-types: [], states: [FINISHED] and tags: []):7
+                Application-Id	    Application-Name	    Application-Type	      User	     Queue	             State	       Final-State	       Progress	                       Tracking-URL
+application_1791570419008_0003	SELECT dt, count(*), ......BY dt ORDER BY dt (Stage-1)	           MAPREDUCE	      team	root.default	          FINISHED	            FAILED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0003
+application_1791570419008_0002	SELECT dt, count(*), ......BY dt ORDER BY dt (Stage-1)	           MAPREDUCE	      team	root.default	          FINISHED	            FAILED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0002
+application_1791570419008_0005	SELECT dt, count(*), ......BY dt ORDER BY dt (Stage-1)	           MAPREDUCE	      team	root.default	          FINISHED	         SUCCEEDED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0005
+application_1791570419008_0004	SELECT dt, count(*), ......BY dt ORDER BY dt (Stage-1)	           MAPREDUCE	      team	root.default	          FINISHED	         SUCCEEDED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0004
+application_1791570419008_0007	SELECT dt, count(*), ......BY dt ORDER BY dt (Stage-2)	           MAPREDUCE	      team	root.default	          FINISHED	         SUCCEEDED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0007
+application_1791570419008_0006	SELECT dt, count(*), ......BY dt ORDER BY dt (Stage-2)	           MAPREDUCE	      team	root.default	          FINISHED	         SUCCEEDED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0006
+application_1791570419008_0001	          word count	           MAPREDUCE	      team	root.default	          FINISHED	         SUCCEEDED	           100%	http://team-19-nn:19888/jobhistory/job/job_1791570419008_0001
