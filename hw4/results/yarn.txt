@@ -1,0 +1,27 @@
+2026-10-22 20:37:39,806 INFO client.DefaultNoHARMFailoverProxyProvider: Connecting to ResourceManager at team-19-nn/10.19.0.11:8032
+2026-10-22 20:37:40,505 INFO conf.Configuration: resource-types.xml not found
+2026-10-22 20:37:40,505 INFO resource.ResourceUtils: Unable to find 'resource-types.xml'.
+Application Report : 
+	Application-Id : application_1791570419008_0012
+	Application-Name : hw4-sales
+	Application-Type : SPARK
+	User : team
+	Queue : root.default
+	Application Priority : 0
+	Start-Time : 1792701303612
+	Finish-Time : 1792701346880
+	Progress : 100%
+	State : FINISHED
+	Final-State : SUCCEEDED
+	Tracking-URL : N/A
+	RPC Port : -1
+	AM Host : 10.19.0.12
+	Aggregate Resource Allocation : 81271 MB-seconds, 100 vcore-seconds
+	Aggregate Resource Preempted : 0 MB-seconds, 0 vcore-seconds
+	Log Aggregation Status : SUCCEEDED
+	Diagnostics : 
+	Unmanaged Application : false
+	Application Node Label Expression : <Not set>
+	AM container Node Label Expression : <DEFAULT_PARTITION>
+	TimeoutType : LIFETIME	ExpiryTime : UNLIMITED	RemainingTime : -1seconds
+

@@ -1,0 +1,5 @@
+-rw-r--r--   3 team supergroup          0 2026-10-22 20:35 /user/team/hw4/sales_daily/_SUCCESS
+drwxr-xr-x   - team supergroup          0 2026-10-22 20:35 /user/team/hw4/sales_daily/dt=2026-10-21
+-rw-r--r--   3 team supergroup       1281 2026-10-22 20:35 /user/team/hw4/sales_daily/dt=2026-10-21/part-00000-c35e1daa-fc93-4dfb-aff0-519c9f80baef.c000.snappy.parquet
+drwxr-xr-x   - team supergroup          0 2026-10-22 20:35 /user/team/hw4/sales_daily/dt=2026-10-22
+-rw-r--r--   3 team supergroup       1307 2026-10-22 20:35 /user/team/hw4/sales_daily/dt=2026-10-22/part-00000-c35e1daa-fc93-4dfb-aff0-519c9f80baef.c000.snappy.parquet
